@@ -1,5 +1,8 @@
 # crudvue
 
+### Para que la ejecución este código se haga correctamentem es necesario:
+### Instalar la API con el nombre "empleado" en un servidor, por ejemplo: XAMPP
+
 ## Project setup
 ```
 npm install
